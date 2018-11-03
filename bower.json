@@ -1,0 +1,12 @@
+{
+    "name": "sap.f.tutorial.fiori2.01",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc", "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
